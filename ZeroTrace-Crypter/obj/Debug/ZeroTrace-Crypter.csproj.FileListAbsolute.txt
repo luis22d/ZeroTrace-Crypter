@@ -1,0 +1,10 @@
+C:\Users\aarbe\source\repos\ZeroTrace-Crypter\ZeroTrace-Crypter\bin\Debug\ZeroTrace-Crypter.exe.config
+C:\Users\aarbe\source\repos\ZeroTrace-Crypter\ZeroTrace-Crypter\bin\Debug\ZeroTrace-Crypter.exe
+C:\Users\aarbe\source\repos\ZeroTrace-Crypter\ZeroTrace-Crypter\bin\Debug\ZeroTrace-Crypter.pdb
+C:\Users\aarbe\source\repos\ZeroTrace-Crypter\ZeroTrace-Crypter\obj\Debug\ZeroTrace-Crypter.csproj.AssemblyReference.cache
+C:\Users\aarbe\source\repos\ZeroTrace-Crypter\ZeroTrace-Crypter\obj\Debug\ZeroTrace_Crypter.Form1.resources
+C:\Users\aarbe\source\repos\ZeroTrace-Crypter\ZeroTrace-Crypter\obj\Debug\ZeroTrace_Crypter.Properties.Resources.resources
+C:\Users\aarbe\source\repos\ZeroTrace-Crypter\ZeroTrace-Crypter\obj\Debug\ZeroTrace-Crypter.csproj.GenerateResource.cache
+C:\Users\aarbe\source\repos\ZeroTrace-Crypter\ZeroTrace-Crypter\obj\Debug\ZeroTrace-Crypter.csproj.CoreCompileInputs.cache
+C:\Users\aarbe\source\repos\ZeroTrace-Crypter\ZeroTrace-Crypter\obj\Debug\ZeroTrace-Crypter.exe
+C:\Users\aarbe\source\repos\ZeroTrace-Crypter\ZeroTrace-Crypter\obj\Debug\ZeroTrace-Crypter.pdb
