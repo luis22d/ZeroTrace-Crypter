@@ -6,6 +6,9 @@ ZeroTrace Powerfull Crypter That Uses AI, Always Pass.
 ## How It Looks ?
 ![Untitled](https://github.com/user-attachments/assets/43827380-1ef9-4362-b3af-07cc9199e965)
 
+![ezgif-4-ee23841175](https://github.com/user-attachments/assets/36dfd062-7ef4-4cc6-8142-ff287f999f26)
+
+
 
 ## Why Is It So Powerfull?
  it's integrated with AI, which updates & changes the stub whole time,  it's not using codedom or roslyn, that what's makes it unique too..
