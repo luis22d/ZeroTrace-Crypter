@@ -20,9 +20,6 @@ ZeroTrace Powerfull Crypter That Uses AI, Always Pass.
  bypasses chinese AV.
 
 
-## Output
- .exe .bat .js [ many more depends if you ask ]
-
 
 ## Coded Lang C#
 why is it coded in C#?  well because most peoples using .net  rats, stealers, grabbers and etc,  i can make native crypter but it won't support .net files, which is not great for most peoples.
