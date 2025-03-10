@@ -27,12 +27,9 @@ ZeroTrace Powerfull Crypter That Uses AI, Always Pass.
 ## Coded Lang C#
 why is it coded in C#?  well because most peoples using .net  rats, stealers, grabbers and etc,  i can make native crypter but it won't support .net files, which is not great for most peoples.
 
-## Is It Paid & Price?
-yes the software is paid and price is not very high not very low,  it's very normal price for that kind quality,   [ CRYPTER PRICE IS 120$ ]
 
 ## Contact
-do not contact me if you're not serious, do not contact me if you're going to waste time.
-contact me only if are serious about buying etc.  [ i am not giving test, i won't risk anything in public, if you don't have trust better look for someone else ]
+[ i am not giving test, i won't risk anything in public, this project is private ]
 https://t.me/ZeroTraceDeveloper
 https://t.me/zerotracedev
 https://t.me/zerotracegroup
