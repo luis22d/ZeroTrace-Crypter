@@ -26,9 +26,6 @@ why is it coded in C#?  well because most peoples using .net  rats, stealers, gr
 
 
 ## Contact
-[ i am not giving test, i won't risk anything in public, this project is private ]
 https://t.me/ZeroTraceDeveloper
-https://t.me/zerotracedev
-https://t.me/zerotracegroup
 
  Thanks Yall!
