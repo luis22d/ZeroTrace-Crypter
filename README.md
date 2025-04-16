@@ -9,11 +9,6 @@ ZeroTrace Powerfull Crypter That Uses AI, Always Pass.
 ![ezgif-4-ee23841175](https://github.com/user-attachments/assets/36dfd062-7ef4-4cc6-8142-ff287f999f26)
 
 
-![5](https://github.com/user-attachments/assets/d68af55a-ba87-4ee8-8434-8aab64ecdb44)
-![4](https://github.com/user-attachments/assets/1ddfc6ad-dfc6-400b-8349-dd7dcbd3b25c)
-![3](https://github.com/user-attachments/assets/01f25be4-9953-4887-b93e-b8bce1634961)
-![2](https://github.com/user-attachments/assets/82c900ce-1dfe-4064-877b-5e93f6b6c786)
-![1](https://github.com/user-attachments/assets/70a337be-3958-4ab1-ab7c-446906e44587)
 
 ZeroTrace is a powerful crypter for security research and testing.
 Key Features
