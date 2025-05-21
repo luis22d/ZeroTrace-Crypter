@@ -43,6 +43,6 @@ why is it coded in C#?  well because most peoples using .net  rats, stealers, gr
 
 
 ## Contact
-https://t.me/NeverTrace
+https://t.me/ZeroTraceD3V
 
  Thanks Yall!
