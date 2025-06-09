@@ -8,7 +8,7 @@ ZeroTrace Powerfull Crypter That Uses AI, Always Pass.
 
 ![ezgif-4-ee23841175](https://github.com/user-attachments/assets/36dfd062-7ef4-4cc6-8142-ff287f999f26)
 
-https://t.me/ZeroTraceOfficial
+https://t.me/ZeroTraceDevOfficial
 
 ZeroTrace is a powerful crypter for security research and testing.
 Key Features
@@ -43,6 +43,6 @@ why is it coded in C#?  well because most peoples using .net  rats, stealers, gr
 
 
 ## Contact
-https://t.me/ZeroTraceD3V
+https://t.me/ZeroTraceDevOfficial
 
  Thanks Yall!
